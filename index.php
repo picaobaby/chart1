@@ -47,8 +47,6 @@
 		<!-- Our main script file -->
 		<script src="assets/js/script.js"></script>
 
-		<!-- BSA AdPacks code. Please ignore and remove.-->
-        <script src="http://cdn.tutorialzine.com/misc/adPacks/v1.js" async></script>
     </body>
 </html>
 
